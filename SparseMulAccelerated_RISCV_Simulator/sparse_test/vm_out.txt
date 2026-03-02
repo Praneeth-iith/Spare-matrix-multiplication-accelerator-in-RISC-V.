@@ -1,0 +1,27 @@
+VM_PROGRAM_LOADED
+Program Counter: 4
+Program Counter: 8
+Program Counter: 12
+Program Counter: 16
+Program Counter: 20
+Program Counter: 24
+Program Counter: 28
+Program Counter: 32
+Meta recongnized
+Program Counter: 36
+Program Counter: 40
+Sparse recongnized
+Program Counter: 44
+Program Counter: 44
+Program Counter: 44
+Program Counter: 44
+Program Counter: 44
+Program Counter: 44
+Program Counter: 44
+Program Counter: 44
+Program Counter: 44
+Program Counter: 44
+Program Counter: 44
+Program Counter: 48
+VM_PROGRAM_END
+Program running: test.s
